@@ -12,6 +12,7 @@ External Requirements:
   [fd-find](https://github.com/sharkdp/fd#installation)
 - Clipboard tool (xclip/xsel/win32yank or other depending on the platform)
 - A [Nerd Font](https://www.nerdfonts.com/)
+- LSP Dependencies: `python`, `npm`, `nodejs`, `go`
 
 ### How to install
 
