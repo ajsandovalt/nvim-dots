@@ -8,9 +8,9 @@ Personal Neovim config files, fork of [Kickstart.nvim](https://docs.github.com/e
 
 External Requirements:
 - Basic utils: `git`, `make`, `unzip`, C Compiler (`gcc`)
-- LSP Dependencies: `python`, `npm`, `nodejs`, `go`
 - [ripgrep](https://github.com/BurntSushi/ripgrep#installation),
   [fd-find](https://github.com/sharkdp/fd#installation)
+- LSP Dependencies: `python`, `npm`, `nodejs`, `go`
 - Clipboard tool (xclip/xsel/win32yank or other depending on the platform)
 - A [Nerd Font](https://www.nerdfonts.com/)
 
